@@ -1,0 +1,8 @@
+content {
+    width: 100%;
+    height: 100vh;
+    background: url(https://www.nastroy.net/pic/images/201812/496311-1543849214.jpg) no-repeat 45% 55%;
+    background-size: cover;
+    position:absolute;
+    z-index: -1;
+}

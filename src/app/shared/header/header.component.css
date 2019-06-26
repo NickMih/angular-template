@@ -1,0 +1,24 @@
+.links{
+    text-align: center;
+}
+.nav-link{
+    margin-right: 1.1rem;
+    margin-left: 1.1rem;
+}
+.nav-link:hover{
+    cursor: pointer;
+}
+.navbar-toggler{
+        position: absolute;
+        right: 1em;
+        top: 0.5em;
+}
+#menu{
+    transition-duration: 1.2s;
+    background-color: #6fadef73;
+}
+.black{
+    transition-duration: 1.2s;
+    opacity: 0.9;
+    background-color: aquamarine !important;
+}

@@ -1,0 +1,16 @@
+.footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    text-align: center;
+}
+.contacts{
+    border: 4px solid #03091d00;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    background-color: rgba(23, 26, 27, 0.76);
+    width: 40vh;
+    height: 13hv;
+    margin: 0 auto;
+    color: #e1f0fde0;
+}
